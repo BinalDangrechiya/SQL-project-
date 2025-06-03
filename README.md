@@ -11,14 +11,14 @@ MySQL Workbench (SQL queries)
 
 Project Learnings:
 
-Mastered SQL for real-world data analysis tasks such as sales tracking and customer profiling.
+* Mastered SQL for real-world data analysis tasks such as sales tracking and customer profiling.
 
-Explored sales performance across products, categories, regions, and time periods.
+* Explored sales performance across products, categories, regions, and time periods.
 
-Identified revenue-driving products and underperforming areas for strategic improvement.
+* Identified revenue-driving products and underperforming areas for strategic improvement.
 
-Analyzed customer order behavior to spot loyal and high-value customers.
+* Analyzed customer order behavior to spot loyal and high-value customers.
 
-Discovered operational insights like shipping trends, zero-profit sales, and discount effectiveness.
+* Discovered operational insights like shipping trends, zero-profit sales, and discount effectiveness.
 
-Strengthened skills in data-driven decision-making and retail business analytics.
+* Strengthened skills in data-driven decision-making and retail business analytics.
